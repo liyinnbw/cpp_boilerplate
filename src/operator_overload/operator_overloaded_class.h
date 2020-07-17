@@ -6,6 +6,10 @@ licence: MIT
 Demonstrates how to overload common operators
 However, avoid operator overload as much as possible
 If you have to, make sure its meaning is as expected
+
+Also, avoid defining operators as templates because
+you cannot guarantee the meaning of operator is intuitive
+to all possible template arguments
 */
 #ifndef SRC_OPERATOR_OVERLOAD_OPERATOR_OVERLOADED_CLASS_H_
 #define SRC_OPERATOR_OVERLOAD_OPERATOR_OVERLOADED_CLASS_H_
