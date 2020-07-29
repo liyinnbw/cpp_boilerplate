@@ -6,7 +6,7 @@ This project serves two purposes:
 
 The best practices follows:
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-
+- [SOLID](https://en.wikipedia.org/wiki/SOLID)
 
 ## Build Commands
 1. Create /build folder under root folder

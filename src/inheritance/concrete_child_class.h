@@ -17,6 +17,8 @@ avoid inheriting from multiple concrete classes as it can
 introduce diamond inheritance problem. Consider composition
 instead.
 
+for more information, read up on SOLID principles of OOP.
+
 */
 #ifndef SRC_INHERITANCE_CONCRETE_CHILD_CLASS_H_
 #define SRC_INHERITANCE_CONCRETE_CHILD_CLASS_H_
